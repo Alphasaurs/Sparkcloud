@@ -15,6 +15,10 @@ gcloud -h //help
 
 gcloud config list
 
+gcloud config set compute/zone us-central1-a //set zone
+
+gcloud config set compute/zone us-central1-a  //set region
+
 gcloud components list
 
 sudo apt-get install google-cloud-sdk //install beta components
