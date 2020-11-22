@@ -1,2 +1,2 @@
 # GCP
-Google cloud platform 
+Google Cloud platform 
